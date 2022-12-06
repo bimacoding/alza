@@ -12,9 +12,7 @@ alza - simple framework for PHP
 [![Latest Unstable Version](https://poser.pugx.org/bimacoding/alza-core/v/unstable.svg)](https://packagist.org/packages/bimacoding/alza)
 [![License](https://poser.pugx.org/bimacoding/alza/license.svg)](https://packagist.org/packages/bimacoding/alza)
 
-> Alza Framework has been created for just fun and adapted by using some most popular parts of the popular PHP Frameworks like Laravel and Symfony. 
-> It has a simple but powerful infrastructure. It contains a lot of component in order to prepare web applications.
-> So, It can be a preference for your small (maybe medium) projects. If you say "I'll make a bigger project.", I suggest you use a full-stack framework. :) e.g: Laravel, Symfony...
+> Alza Framework telah dibuat hanya untuk bersenang-senang dan diadaptasi dengan menggunakan beberapa bagian paling populer dari >Framework PHP populer seperti Laravel dan Symfony. Ini memiliki infrastruktur yang sederhana namun kuat. Ini berisi banyak komponen >untuk menyiapkan aplikasi web. Jadi, Ini bisa menjadi preferensi untuk proyek kecil (mungkin menengah) Anda. Jika Anda mengatakan "Saya >akan membuat proyek yang lebih besar.", Saya sarankan Anda menggunakan kerangka kerja full-stack. :) misalnya: Laravel, Symfony
 
 ### features
 - Model - View - Controller
