@@ -2,7 +2,7 @@
 /**
  * alza - a simple framework for PHP Developers
  *
- * @author   izni burak demirtaş (@bimacoding) <bimacoding@gmail.com>
+ * @author   arif iik (@bimacoding) <bimacoding@gmail.com>
  * @web      <http://burakdemirtas.org>
  * @url      <https://github.com/bimacoding/alza>
  * @license  The MIT License (MIT) - <http://opensource.org/licenses/MIT>

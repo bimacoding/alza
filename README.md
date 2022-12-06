@@ -97,7 +97,7 @@ documentation page: [alza docs][doc-url] (coming soon...)
 5. create a new Pull Request
 
 ## contributors
-- [bimacoding](https://github.com/bimacoding) izni burak demirtaş - creator, maintainer
+- [bimacoding](https://github.com/bimacoding) arif iik - creator, maintainer
 
 [mit-url]: http://opensource.org/licenses/MIT
 [doc-url]: javascript:;

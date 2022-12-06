@@ -27,7 +27,7 @@
             <a href="https://github.com/bimacoding/alza">view on github</a> <span class="blank">|</span>
             <a href="https://github.com/bimacoding/alza#docs">documentation</a>
         </h4>
-        <h5>creator, maintainer<br/> <a href="https://github.com/bimacoding/" title="izni burak demirtaş">bimacoding</a></h5>
+        <h5>creator, maintainer<br/> <a href="https://github.com/bimacoding/" title="arif iik">bimacoding</a></h5>
     </div>
 </body>
 </html>
