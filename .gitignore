@@ -1,0 +1,13 @@
+.DS_Store
+.docs/
+.todo
+.vscode/
+.idea/
+.vagrant/
+node_modules/
+vendor/
+database/*.sqlite
+database/*.sqlite3
+npm-debug.log
+yarn-error.log
+.env
